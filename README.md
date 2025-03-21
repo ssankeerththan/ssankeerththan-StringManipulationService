@@ -1,6 +1,6 @@
 # SOAP Web Service in Java
 
-This repository contains a simple SOAP web service implemented in Java using JAX-WS.
+This repository contains a simple SOAP web service implemented in Java.
 
 ## Project Structure
 - `StringManipulationService.java` - Defines the web service interface.
@@ -16,8 +16,3 @@ This repository contains a simple SOAP web service implemented in Java using JAX
    ```sh
    java StringManipulationServicePublisher
    ```
-3. Access the WSDL at:
-   ```
-   http://localhost:8080/StringManipulationService?wsdl
-   ```
-
