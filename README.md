@@ -21,5 +21,3 @@ This repository contains a simple SOAP web service implemented in Java using JAX
    http://localhost:8080/StringManipulationService?wsdl
    ```
 
-## License
-This project is licensed under the MIT License.
